@@ -54,20 +54,6 @@ The Arduino listens for simple ASCII commands:
 * A → Set switch to Position A
 * B → Set switch to Position B
 
-### ✅ Example (Python)
-```
-from switch87222C import Switch87222C
-
-sw = Switch87222C("COM5")
-sw.set_A()
-```
-
-### ✅  Example (MATLAB)
-```
-sw = Switch87222C("COM5");
-sw.setB();
-```
-
 ### PCB Information
 
 The PCB/ folder includes:
