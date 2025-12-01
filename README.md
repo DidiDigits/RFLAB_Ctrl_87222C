@@ -53,7 +53,6 @@ The Arduino listens for simple ASCII commands:
 
 * A → Set switch to Position A
 * B → Set switch to Position B
-* S → Query current state
 
 ### ✅ Example (Python)
 ```
